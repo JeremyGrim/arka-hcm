@@ -88,3 +88,4 @@ docker run --rm \
 - Côté déploiement :
   - pour mettre à jour, il suffit de tirer la nouvelle image ou d’installer la nouvelle version npm,
   - le HCM reste externe (volume `/hcm`), ce qui garde ce dépôt “clean” et rend les upgrades indépendants des données.
+
