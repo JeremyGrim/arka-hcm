@@ -1,4 +1,4 @@
-# **AR KA — HCM v1
+# arka — HCM v1
 
 (Hybrid Collective Memory – Document Officiel)**
 
