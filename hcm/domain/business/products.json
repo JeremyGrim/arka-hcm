@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "product_id": "prod-example-001",
+      "name": "Produit Exemple A",
+      "description": "Produit d'exemple pour illustrer le HCM."
+    }
+  ]
+}
+

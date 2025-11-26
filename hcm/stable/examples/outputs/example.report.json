@@ -1,0 +1,13 @@
+{
+  "report_id": "report-example-001",
+  "title": "Rapport de mission - Exemple",
+  "mission_id": "example-tenant-discovery-001",
+  "summary": "Exemple de rapport final structuré.",
+  "sections": [
+    "executive_summary",
+    "contexte",
+    "constats",
+    "recommandations"
+  ]
+}
+

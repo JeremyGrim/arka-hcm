@@ -1,0 +1,10 @@
+{
+  "data_sources": [
+    {
+      "source_id": "src-logs",
+      "name": "Logs applicatifs",
+      "description": "Sources de logs applicatifs pour les analyses techniques."
+    }
+  ]
+}
+

@@ -1,0 +1,38 @@
+{
+  "next_actions": [
+    {
+      "action_id": "act-0001",
+      "title": "Consolider la liste des systèmes impactés",
+      "description": "Recenser l'ensemble des applications utilisées par les équipes Support et Produit.",
+      "owner_type": "agent",
+      "owner_id": "arka_analyst_01",
+      "created_at": "2025-11-25T09:00:00Z",
+      "due_date": "2025-11-27T18:00:00Z",
+      "status": "in_progress",
+      "priority": "high",
+      "related_phase": "design"
+    },
+    {
+      "action_id": "act-0002",
+      "title": "Valider le plan de communication interne",
+      "description": "Préparer et valider le message d'annonce pour les équipes pilotes.",
+      "owner_type": "human",
+      "owner_id": "comms.lead",
+      "created_at": "2025-11-25T11:30:00Z",
+      "due_date": null,
+      "status": "todo",
+      "priority": "medium",
+      "related_phase": "delivery"
+    },
+    {
+      "action_id": "act-a0229b04",
+      "created_at": "2025-11-26T22:27:51.997Z",
+      "status": "done",
+      "priority": "high",
+      "title": "Action de test 1",
+      "description": "Desc",
+      "owner_type": "agent",
+      "owner_id": "arka_pmo_01"
+    }
+  ]
+}

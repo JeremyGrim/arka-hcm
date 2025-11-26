@@ -1,0 +1,14 @@
+{
+  "pattern_id": "evidence_pack.audit",
+  "label": "Evidence pack d'audit",
+  "description": "Pattern spécifique aux missions d'audit.",
+  "sections": [
+    "contexte",
+    "scope_audit",
+    "constats",
+    "preuves",
+    "risques",
+    "recommandations"
+  ]
+}
+

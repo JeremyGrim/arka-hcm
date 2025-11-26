@@ -1,0 +1,21 @@
+{
+  "availability": [
+    {
+      "entity_type": "human",
+      "entity_id": "jeremy.grimonpont",
+      "status": "available",
+      "capacity": 0.8,
+      "time_zone": "Europe/Paris",
+      "updated_at": "2025-11-26T00:00:00Z"
+    },
+    {
+      "entity_type": "agent",
+      "entity_id": "LDHC-AGPR",
+      "status": "available",
+      "capacity": 1.0,
+      "time_zone": "Europe/Paris",
+      "updated_at": "2025-11-26T00:00:00Z"
+    }
+  ]
+}
+

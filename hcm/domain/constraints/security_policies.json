@@ -1,0 +1,10 @@
+{
+  "security_policies": [
+    {
+      "policy_id": "sec-access-control",
+      "name": "Contrôle d'accès",
+      "description": "Politique de gestion des droits d'accès aux systèmes et données."
+    }
+  ]
+}
+

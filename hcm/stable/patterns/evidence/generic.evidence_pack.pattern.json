@@ -1,0 +1,12 @@
+{
+  "pattern_id": "evidence_pack.generic",
+  "label": "Evidence pack générique",
+  "description": "Pattern pour structurer un evidence pack.",
+  "sections": [
+    "contexte",
+    "constats",
+    "preuves",
+    "recommandations"
+  ]
+}
+

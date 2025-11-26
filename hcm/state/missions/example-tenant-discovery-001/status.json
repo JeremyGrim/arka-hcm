@@ -1,0 +1,18 @@
+{
+  "phase": "design",
+  "phase_label": "Conception détaillée",
+  "status": "in_progress",
+  "progress": 0.45,
+  "last_update": "2025-11-26T09:12:00Z",
+  "health": "at_risk",
+  "risks": [
+    {
+      "risk_id": "risk-001",
+      "severity": "high",
+      "summary": "Dépendance forte à l'équipe data interne.",
+      "owner": "arka_pmo_01"
+    }
+  ],
+  "summary": "La mission est en phase de conception, avec des dépendances critiques côté data non encore sécurisées."
+}
+

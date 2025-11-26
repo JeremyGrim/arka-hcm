@@ -1,0 +1,25 @@
+{
+  "severity_levels": [
+    {
+      "code": "low",
+      "label": "Faible",
+      "description": "Impact limité, facilement contournable."
+    },
+    {
+      "code": "medium",
+      "label": "Moyenne",
+      "description": "Impact notable mais maîtrisable."
+    },
+    {
+      "code": "high",
+      "label": "Élevée",
+      "description": "Impact important sur les objectifs de la mission."
+    },
+    {
+      "code": "critical",
+      "label": "Critique",
+      "description": "Impact majeur, bloque la mission ou le service."
+    }
+  ]
+}
+

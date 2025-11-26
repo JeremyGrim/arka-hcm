@@ -1,0 +1,25 @@
+{
+  "evidence_types": [
+    {
+      "code": "interview_synthesis",
+      "label": "Synthèse d'entretiens",
+      "description": "Synthèse structurée d'entretiens avec des parties prenantes."
+    },
+    {
+      "code": "document_analysis",
+      "label": "Analyse de document",
+      "description": "Analyse structurée d'un document existant."
+    },
+    {
+      "code": "metric_snapshot",
+      "label": "Snapshot de métriques",
+      "description": "Extrait chiffré d'indicateurs clés."
+    },
+    {
+      "code": "meeting_notes",
+      "label": "Notes de réunion",
+      "description": "Compte-rendu structuré d'une réunion."
+    }
+  ]
+}
+

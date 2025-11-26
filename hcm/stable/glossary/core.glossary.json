@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "term": "mission",
+      "definition": "Un ensemble structuré d'objectifs, de tâches et de livrables suivis dans Arka OS.",
+      "category": "core",
+      "aliases": [
+        "projet",
+        "engagement"
+      ]
+    },
+    {
+      "term": "evidence_pack",
+      "definition": "Un regroupement structuré de preuves qui supportent une décision ou une analyse donnée.",
+      "category": "evidence",
+      "aliases": []
+    }
+  ]
+}
+

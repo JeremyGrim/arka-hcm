@@ -1,0 +1,5 @@
+{"timestamp":"2025-11-25T14:03:00Z","author_type":"agent","author_id":"arka_pmo_01","entry_type":"event","message":"Phase de cadrage validée par le sponsor.","context":{"phase":"cadrage","related_decision_id":"dec-0003"}}
+{"timestamp":"2025-11-25T16:20:00Z","author_type":"human","author_id":"jeremy.grimonpont","entry_type":"note","message":"Clarifier le périmètre des systèmes concernés avant la prochaine itération.","context":{"action_required":true}}
+{"timestamp":"2025-11-26T08:45:00Z","author_type":"agent","author_id":"arka_analyst_01","entry_type":"analysis","message":"Synthèse des entretiens utilisateurs déposée dans evidence ev-0004.","context":{"evidence_id":"ev-0004"}}
+
+{"author_type":"agent","author_id":"test_agent","entry_type":"note","message":"Entrée de journal de test","context":{"test":true},"timestamp":"2025-11-26T22:27:51.997Z"}

@@ -1,0 +1,25 @@
+{
+  "roles": [
+    {
+      "code": "product_manager",
+      "label": "Product Manager",
+      "description": "Responsable de la vision et de la feuille de route produit."
+    },
+    {
+      "code": "executive_sponsor",
+      "label": "Sponsor exécutif",
+      "description": "Porte la mission au niveau direction et tranche les décisions clés."
+    },
+    {
+      "code": "pmo",
+      "label": "PMO",
+      "description": "Pilote la mission, suit l'avancement et les risques."
+    },
+    {
+      "code": "analyst",
+      "label": "Analyste",
+      "description": "Produit analyses, synthèses et evidence packs."
+    }
+  ]
+}
+

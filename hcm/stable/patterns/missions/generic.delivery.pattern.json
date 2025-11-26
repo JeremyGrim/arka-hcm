@@ -1,0 +1,12 @@
+{
+  "pattern_id": "mission.delivery.generic",
+  "label": "Mission de delivery générique",
+  "description": "Pattern pour une mission de delivery.",
+  "default_mission_type": "transformation",
+  "phases": [
+    "design",
+    "implementation",
+    "rollout"
+  ]
+}
+

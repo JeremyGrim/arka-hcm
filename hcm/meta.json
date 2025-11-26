@@ -1,0 +1,9 @@
+{
+  "hcm_version": "1.0.0",
+  "tenant_id": "example-tenant",
+  "tenant_name": "Example Tenant",
+  "environment": "dev",
+  "description": "Hybrid Collective Memory - squelette initial pour intégration Arka-OS.",
+  "created_at": "2025-11-26T00:00:00Z",
+  "updated_at": "2025-11-26T00:00:00Z"
+}

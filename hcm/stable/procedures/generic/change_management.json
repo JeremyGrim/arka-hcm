@@ -1,0 +1,27 @@
+{
+  "procedure_id": "change_management",
+  "title": "Gestion de changement",
+  "category": "generic",
+  "description": "Procédure pour cadrer, valider et déployer un changement.",
+  "steps": [
+    {
+      "step_id": "step-1",
+      "title": "Expression du besoin",
+      "description": "Documenter le changement envisagé, ses motivations et impacts attendus.",
+      "expected_owner_role": "product_manager"
+    },
+    {
+      "step_id": "step-2",
+      "title": "Évaluation d'impact",
+      "description": "Analyser risques, dépendances et effort associé.",
+      "expected_owner_role": "analyst"
+    },
+    {
+      "step_id": "step-3",
+      "title": "Validation et planification",
+      "description": "Valider le changement avec les parties prenantes et planifier le déploiement.",
+      "expected_owner_role": "pmo"
+    }
+  ]
+}
+

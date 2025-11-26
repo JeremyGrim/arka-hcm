@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "sensitivity_levels": {
+      "public": [],
+      "internal": [
+        "human_user"
+      ],
+      "restricted": [
+        "executive",
+        "security_officer"
+      ]
+    },
+    "default_visibility": "internal"
+  }
+}
+

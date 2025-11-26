@@ -1,0 +1,15 @@
+{
+  "units": [
+    {
+      "unit_id": "product",
+      "name": "Product",
+      "description": "Équipe en charge de la vision et de la stratégie produit."
+    },
+    {
+      "unit_id": "engineering",
+      "name": "Engineering",
+      "description": "Équipe en charge du développement et de l'exploitation des systèmes."
+    }
+  ]
+}
+

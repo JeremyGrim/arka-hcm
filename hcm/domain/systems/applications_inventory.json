@@ -1,0 +1,10 @@
+{
+  "applications": [
+    {
+      "app_id": "app-ticketing",
+      "name": "Système de ticketing",
+      "description": "Outil utilisé pour le suivi des tickets support."
+    }
+  ]
+}
+

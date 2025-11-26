@@ -1,0 +1,11 @@
+{
+  "entries": [
+    {
+      "term": "incident",
+      "definition": "Un événement non planifié qui perturbe ou dégrade un service.",
+      "category": "operations",
+      "aliases": []
+    }
+  ]
+}
+

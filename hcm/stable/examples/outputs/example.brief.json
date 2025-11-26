@@ -1,0 +1,13 @@
+{
+  "brief_id": "brief-example-001",
+  "title": "Brief de mission - Exemple",
+  "mission_id": "example-tenant-discovery-001",
+  "summary": "Exemple de brief de mission de découverte pour illustrer la structure attendue.",
+  "sections": [
+    "contexte",
+    "objectifs",
+    "perimetre",
+    "approche"
+  ]
+}
+

@@ -1,0 +1,12 @@
+{
+  "workload": [
+    {
+      "entity_type": "agent",
+      "entity_id": "LDHC-AGPR",
+      "assigned_missions": [],
+      "total_load": 0.0,
+      "updated_at": "2025-11-26T00:00:00Z"
+    }
+  ]
+}
+

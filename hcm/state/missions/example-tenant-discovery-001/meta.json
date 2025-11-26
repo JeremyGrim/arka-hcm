@@ -1,0 +1,16 @@
+{
+  "mission_id": "example-tenant-discovery-001",
+  "title": "Programme de découverte Example Tenant",
+  "client_id": "example-tenant",
+  "client_name": "Example Tenant",
+  "mission_type": "discovery",
+  "created_at": "2025-11-20T08:30:00Z",
+  "updated_at": "2025-11-26T09:12:00Z",
+  "owner_human_id": "jeremy.grimonpont",
+  "owner_agent_id": "arka_pmo_01",
+  "tags": [
+    "discovery",
+    "pilot"
+  ]
+}
+

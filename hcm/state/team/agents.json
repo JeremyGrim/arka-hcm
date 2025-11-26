@@ -1,0 +1,21 @@
+{
+  "agents": [
+    {
+      "agent_id": "LDHC-AGPR",
+      "role": "lead_dev_hcm",
+      "display_name": "LDHC-AGPR - Lead Dev HCM",
+      "status": "active",
+      "capabilities": [
+        "hcm_architecture_design",
+        "schema_design",
+        "api_design",
+        "code_review",
+        "quality_governance"
+      ],
+      "assigned_missions": [
+        "example-tenant-discovery-001"
+      ],
+      "last_active_at": "2025-11-26T00:00:00Z"
+    }
+  ]
+}

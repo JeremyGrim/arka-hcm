@@ -1,0 +1,12 @@
+{
+  "pattern_id": "mission.discovery.generic",
+  "label": "Mission de découverte générique",
+  "description": "Pattern pour une mission de découverte structurée.",
+  "default_mission_type": "discovery",
+  "phases": [
+    "cadrage",
+    "exploration",
+    "synthese"
+  ]
+}
+

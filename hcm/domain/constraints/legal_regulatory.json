@@ -1,0 +1,11 @@
+{
+  "constraints": [
+    {
+      "constraint_id": "gdpr",
+      "name": "RGPD",
+      "description": "Règlement général sur la protection des données.",
+      "scope": "eu"
+    }
+  ]
+}
+

@@ -1,0 +1,29 @@
+{
+  "id": "agent_creator_v1",
+  "role": "agent_creator",
+  "mission": "designer_agents_a_partir_metiers",
+  "memory_file": "agent_creator_memory.json",
+  "language": "speak_French",
+  "system_files": {
+    "manifest": "manifest_agent_creator.json",
+    "best_practices": "best-practices_agent_creator.json",
+    "usage_guide": "USAGE_GUIDE_agent_creator.json"
+  },
+  "outputs": {
+    "job_card": "fiche_poste_humaine",
+    "agent_bundle": "agent_json_bundle"
+  },
+  "constraints": {
+    "one_role_per_run": true,
+    "no_org_specific_without_context": true,
+    "no_fake_requirements": true,
+    "agent_files_json_only": true
+  },
+  "pipeline": [
+    "read_brief_role",
+    "research_role",
+    "build_job_card",
+    "build_agent_bundle",
+    "update_memory"
+  ]
+}

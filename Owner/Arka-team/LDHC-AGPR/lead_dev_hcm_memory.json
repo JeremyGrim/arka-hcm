@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2025-11-26T00:00:00Z"
+  },
+  "hcm_scope": {
+    "default_tenant": "example-tenant",
+    "environments": [
+      "dev"
+    ],
+    "notes": [
+      "Agent focalise sur l'architecture et la qualite de la couche HCM.",
+      "Toujours respecter les documents HCM officiels du dossier docs/ avant toute modification.",
+      "Veiller a la compatibilite ascendante des schemas JSON et a la separation stricte OS/HCM."
+    ]
+  },
+  "session": {
+    "last_mission_id": null,
+    "last_action": null
+  }
+}
+

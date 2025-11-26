@@ -1,0 +1,14 @@
+{
+  "humans": [
+    {
+      "human_id": "jeremy.grimonpont",
+      "display_name": "Jérémy Grimonpont",
+      "email": "jeremy@example.com",
+      "role": "product_manager",
+      "department": "Product",
+      "time_zone": "Europe/Paris",
+      "preferred_language": "fr",
+      "notes": "Owner Arka-Labs."
+    }
+  ]
+}

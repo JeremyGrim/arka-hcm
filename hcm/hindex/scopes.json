@@ -1,0 +1,29 @@
+{
+  "scopes": {
+    "mission_history": {
+      "include": [
+        "state/missions/*/meta.json",
+        "state/missions/*/journal.jsonl"
+      ],
+      "exclude": [
+        "stable/**"
+      ]
+    },
+    "domain_knowledge": {
+      "include": [
+        "domain/**"
+      ],
+      "exclude": [
+        "state/**"
+      ]
+    },
+    "core_reference": {
+      "include": [
+        "stable/glossary/**",
+        "stable/referentials/**"
+      ],
+      "exclude": []
+    }
+  }
+}
+

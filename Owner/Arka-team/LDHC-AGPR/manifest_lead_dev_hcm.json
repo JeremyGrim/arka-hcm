@@ -1,0 +1,67 @@
+{
+  "manifest_version": "1.0",
+  "purpose": "config_modes_lead_dev_hcm",
+  "modes": {
+    "hcm_architecture": {
+      "complexity": "high",
+      "input": [
+        "hcm_docs",
+        "constraints_optional"
+      ],
+      "output": "architecture_specs",
+      "checks": [
+        "LD_HCM_DOC_COMPLIANT",
+        "LD_ARCHI_SCOPE_CLEAR"
+      ]
+    },
+    "schema_design": {
+      "complexity": "high",
+      "input": [
+        "architecture_specs"
+      ],
+      "output": "schema_definitions",
+      "checks": [
+        "LD_SCHEMAS_DETERMINISTIC",
+        "LD_SCHEMAS_COMPATIBLE"
+      ]
+    },
+    "implementation_planning": {
+      "complexity": "medium",
+      "input": [
+        "architecture_specs",
+        "schema_definitions"
+      ],
+      "output": "implementation_plan",
+      "checks": [
+        "LD_PLAN_REALISTIC",
+        "LD_PLAN_COVERS_TESTS"
+      ]
+    },
+    "code_review": {
+      "complexity": "medium",
+      "input": [
+        "implementation_plan",
+        "diff_or_files"
+      ],
+      "output": "review_reports",
+      "checks": [
+        "LD_REVIEW_HCM_SAFETY",
+        "LD_REVIEW_QUALITY"
+      ]
+    }
+  },
+  "mode_selection_rules": [
+    "default_sequence: hcm_architecture -> schema_design -> implementation_planning",
+    "on_code_change: code_review"
+  ],
+  "bundle_format": {
+    "files": [
+      "<role>_onboarding.json",
+      "<role>_manifest.json",
+      "best-practices_<role>.json",
+      "<role>_memory.json",
+      "USAGE_GUIDE_<role>.json"
+    ]
+  }
+}
+

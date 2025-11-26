@@ -1,0 +1,27 @@
+{
+  "procedure_id": "feature_lifecycle",
+  "title": "Cycle de vie d'une fonctionnalité",
+  "category": "product",
+  "description": "Procédure décrivant les étapes de vie d'une fonctionnalité produit.",
+  "steps": [
+    {
+      "step_id": "step-1",
+      "title": "Discovery",
+      "description": "Comprendre le problème utilisateur et le contexte métier.",
+      "expected_owner_role": "product_manager"
+    },
+    {
+      "step_id": "step-2",
+      "title": "Design",
+      "description": "Concevoir la solution et la valider avec les parties prenantes.",
+      "expected_owner_role": "product_manager"
+    },
+    {
+      "step_id": "step-3",
+      "title": "Delivery",
+      "description": "Mettre en production et suivre l'adoption.",
+      "expected_owner_role": "engineering_lead"
+    }
+  ]
+}
+

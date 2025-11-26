@@ -1,0 +1,15 @@
+{
+  "snapshot_id": "snap-2025-11-26T09-00-00Z",
+  "timestamp": "2025-11-26T09:00:00Z",
+  "mission_id": "example-tenant-discovery-001",
+  "status": {
+    "phase": "design",
+    "status": "in_progress",
+    "progress": 0.45,
+    "health": "at_risk"
+  },
+  "decisions_count": 1,
+  "open_actions_count": 2,
+  "last_journal_entry_at": "2025-11-26T08:45:00Z"
+}
+

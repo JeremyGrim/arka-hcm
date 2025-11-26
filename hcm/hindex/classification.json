@@ -1,0 +1,44 @@
+{
+  "classifications": [
+    {
+      "class": "mission_history",
+      "keywords": [
+        "hier",
+        "ce que nous avons fait",
+        "progression",
+        "journal"
+      ],
+      "targets": [
+        "state/missions"
+      ],
+      "priority": 1
+    },
+    {
+      "class": "domain_knowledge",
+      "keywords": [
+        "produit",
+        "kpi",
+        "politique",
+        "procédure"
+      ],
+      "targets": [
+        "domain"
+      ],
+      "priority": 2
+    },
+    {
+      "class": "core_reference",
+      "keywords": [
+        "définition",
+        "glossaire",
+        "roles"
+      ],
+      "targets": [
+        "stable/glossary",
+        "stable/referentials"
+      ],
+      "priority": 3
+    }
+  ]
+}
+

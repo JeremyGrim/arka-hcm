@@ -1,0 +1,30 @@
+{
+  "status_codes": [
+    {
+      "code": "planned",
+      "label": "Planifiée",
+      "description": "La mission est cadrée mais pas encore démarrée."
+    },
+    {
+      "code": "in_progress",
+      "label": "En cours",
+      "description": "La mission est active et des actions sont en cours."
+    },
+    {
+      "code": "on_hold",
+      "label": "En pause",
+      "description": "La mission est temporairement suspendue."
+    },
+    {
+      "code": "done",
+      "label": "Terminée",
+      "description": "La mission est terminée et close."
+    },
+    {
+      "code": "cancelled",
+      "label": "Annulée",
+      "description": "La mission a été arrêtée avant son terme."
+    }
+  ]
+}
+

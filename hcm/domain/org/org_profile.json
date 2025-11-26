@@ -1,0 +1,9 @@
+{
+  "org_id": "example-tenant",
+  "name": "Example Tenant",
+  "description": "Organisation d'exemple pour la Hybrid Collective Memory.",
+  "industry": "technology",
+  "headquarters_location": "Europe",
+  "primary_language": "fr"
+}
+

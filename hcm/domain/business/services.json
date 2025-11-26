@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "service_id": "svc-example-001",
+      "name": "Service d'accompagnement Arka",
+      "description": "Service d'accompagnement pour la mise en place d'Arka OS et du HCM."
+    }
+  ]
+}
+

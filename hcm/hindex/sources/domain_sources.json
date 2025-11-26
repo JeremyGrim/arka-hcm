@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "path": "domain/business/products.json",
+      "type": "json",
+      "tags": [
+        "product",
+        "catalog"
+      ]
+    },
+    {
+      "path": "domain/org/org_profile.json",
+      "type": "json",
+      "tags": [
+        "organisation"
+      ]
+    }
+  ]
+}
+

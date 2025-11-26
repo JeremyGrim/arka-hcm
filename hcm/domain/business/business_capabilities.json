@@ -1,0 +1,10 @@
+{
+  "capabilities": [
+    {
+      "capability_id": "cap-hcm-management",
+      "name": "Gestion de la mémoire collective",
+      "description": "Capacité à structurer, maintenir et exploiter la mémoire collective de l'organisation."
+    }
+  ]
+}
+

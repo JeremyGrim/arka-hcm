@@ -1,0 +1,10 @@
+{
+  "policies": [
+    {
+      "policy_id": "remote_work",
+      "title": "Politique de travail à distance",
+      "description": "L'organisation autorise le travail à distance selon les accords d'équipe."
+    }
+  ]
+}
+

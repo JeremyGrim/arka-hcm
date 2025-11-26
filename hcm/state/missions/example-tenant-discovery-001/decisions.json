@@ -1,0 +1,25 @@
+{
+  "decisions": [
+    {
+      "decision_id": "dec-0001",
+      "timestamp": "2025-11-24T10:15:00Z",
+      "made_by_type": "human",
+      "made_by_id": "jeremy.grimonpont",
+      "title": "Validation du périmètre de la première vague",
+      "description": "Le périmètre de la première vague inclut les équipes Support et Produit, hors Finance.",
+      "status": "validated",
+      "applies_from": "2025-11-24T00:00:00Z",
+      "applies_to": null,
+      "related_phase": "cadrage",
+      "impacts": [
+        "Exclusion des processus Finance de la phase pilote",
+        "Priorisation des workflows Support et Produit dans les ateliers"
+      ],
+      "linked_evidence_ids": [
+        "ev-0001",
+        "ev-0002"
+      ]
+    }
+  ]
+}
+

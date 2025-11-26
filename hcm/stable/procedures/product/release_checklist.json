@@ -1,0 +1,24 @@
+{
+  "procedure_id": "release_checklist",
+  "title": "Checklist de release",
+  "category": "product",
+  "description": "Checklist minimale pour sécuriser une mise en production.",
+  "items": [
+    {
+      "item_id": "item-1",
+      "label": "Tests automatisés au vert",
+      "description": "Tous les tests automatisés critiques sont au vert."
+    },
+    {
+      "item_id": "item-2",
+      "label": "Plan de rollback défini",
+      "description": "Un plan de retour arrière est documenté et validé."
+    },
+    {
+      "item_id": "item-3",
+      "label": "Communication aux parties prenantes",
+      "description": "Les équipes concernées ont été informées de la release."
+    }
+  ]
+}
+

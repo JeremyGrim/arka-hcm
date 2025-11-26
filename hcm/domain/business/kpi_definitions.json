@@ -1,0 +1,11 @@
+{
+  "kpis": [
+    {
+      "kpi_id": "kpi-time-to-knowledge",
+      "name": "Temps d'accès à la connaissance",
+      "description": "Temps moyen nécessaire pour trouver une information clé.",
+      "unit": "minutes"
+    }
+  ]
+}
+

@@ -1,0 +1,20 @@
+{
+  "mission_types": [
+    {
+      "code": "discovery",
+      "label": "Mission de découverte",
+      "description": "Compréhension du contexte, des enjeux et des acteurs."
+    },
+    {
+      "code": "audit",
+      "label": "Mission d'audit",
+      "description": "Évaluation d'un système, d'un processus ou d'une organisation."
+    },
+    {
+      "code": "transformation",
+      "label": "Mission de transformation",
+      "description": "Conception et pilotage d'un changement significatif."
+    }
+  ]
+}
+

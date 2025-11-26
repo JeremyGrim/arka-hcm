@@ -1,0 +1,9 @@
+{
+  "routing": {
+    "mission_history": "deterministic",
+    "core_reference": "deterministic",
+    "domain_knowledge": "hybrid_vector",
+    "fallback": "vector"
+  }
+}
+

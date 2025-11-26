@@ -1,0 +1,13 @@
+{
+  "pattern_id": "mission.audit.generic",
+  "label": "Mission d'audit générique",
+  "description": "Pattern pour une mission d'audit structurée.",
+  "default_mission_type": "audit",
+  "phases": [
+    "cadrage",
+    "collecte_evidence",
+    "analyse",
+    "restitution"
+  ]
+}
+

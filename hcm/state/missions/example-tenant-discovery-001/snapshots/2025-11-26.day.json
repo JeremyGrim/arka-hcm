@@ -1,0 +1,18 @@
+{
+  "snapshot_id": "day-2025-11-26",
+  "mission_id": "example-tenant-discovery-001",
+  "date": "2025-11-26",
+  "summary": "Synthèse des entretiens utilisateurs déposée dans evidence ev-0004.",
+  "key_events": [
+    "Synthèse des entretiens utilisateurs déposée dans evidence ev-0004."
+  ],
+  "decisions_made": [],
+  "actions_created": [],
+  "actions_closed": [],
+  "updated_status": {
+    "phase": "design",
+    "status": "in_progress",
+    "progress": 0.45,
+    "health": "at_risk"
+  }
+}

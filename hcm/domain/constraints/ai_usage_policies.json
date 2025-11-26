@@ -1,0 +1,10 @@
+{
+  "ai_policies": [
+    {
+      "policy_id": "ai-usage-governance",
+      "name": "Gouvernance de l'usage de l'IA",
+      "description": "Principes d'usage responsable de l'IA dans l'organisation."
+    }
+  ]
+}
+

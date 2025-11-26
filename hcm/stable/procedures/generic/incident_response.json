@@ -1,0 +1,27 @@
+{
+  "procedure_id": "incident_response",
+  "title": "Gestion d'incident",
+  "category": "generic",
+  "description": "Procédure générique de gestion d'incident pour l'équipe.",
+  "steps": [
+    {
+      "step_id": "step-1",
+      "title": "Détection et qualification",
+      "description": "Identifier l'incident, qualifier sa sévérité et son périmètre.",
+      "expected_owner_role": "ops_lead"
+    },
+    {
+      "step_id": "step-2",
+      "title": "Communication initiale",
+      "description": "Informer les parties prenantes clés et aligner sur la stratégie de réponse.",
+      "expected_owner_role": "pmo"
+    },
+    {
+      "step_id": "step-3",
+      "title": "Résolution",
+      "description": "Mettre en œuvre les actions correctives et vérifier le retour à la normale.",
+      "expected_owner_role": "engineering_lead"
+    }
+  ]
+}
+

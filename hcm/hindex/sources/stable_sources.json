@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "path": "stable/glossary/core.glossary.json",
+      "type": "json",
+      "tags": [
+        "glossary",
+        "core"
+      ]
+    },
+    {
+      "path": "stable/referentials/mission_types.json",
+      "type": "json",
+      "tags": [
+        "referential",
+        "missions"
+      ]
+    },
+    {
+      "path": "stable/procedures/generic/change_management.json",
+      "type": "json",
+      "tags": [
+        "procedure",
+        "change"
+      ]
+    }
+  ]
+}
+

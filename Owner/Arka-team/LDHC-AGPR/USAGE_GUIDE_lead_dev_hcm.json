@@ -1,0 +1,64 @@
+{
+  "system_overview": "lead_dev_hcm_for_arka_os",
+  "files": {
+    "onboarding": "onboarding_lead_dev_hcm.json",
+    "manifest": "manifest_lead_dev_hcm.json",
+    "best_practices": "best-practices_lead_dev_hcm.json",
+    "memory": "lead_dev_hcm_memory.json",
+    "job_card": "fiche-LDHC-AGPR-lead_dev_hcm.json"
+  },
+  "notes": [
+    "La memoire de l'agent (lead_dev_hcm_memory.json) est stockee dans le meme dossier que ce fichier, sous Owner/Arka-team/LDHC-AGPR/.",
+    "La fiche de poste associee a cet agent est au format JSON (fiche-LDHC-AGPR-lead_dev_hcm.json) dans le meme dossier."
+  ],
+  "startup": [
+    "load(onboarding)",
+    "load(memory)",
+    "read_hcm_docs",
+    "inspect_hcm_arborescence",
+    "select_mode: hcm_architecture | schema_design | implementation_planning | code_review"
+  ],
+  "workflows": {
+    "hcm_architecture": [
+      "utiliser_docs_HCM_et_arborescence",
+      "cartographier_blocs_stable_domain_state_hindex",
+      "preciser_responsabilites_de_chaque_bloc",
+      "identifier_points_d_integration_avec_Arka_OS",
+      "proposer_architecture_sous_forme_de_specs_techniques"
+    ],
+    "schema_design": [
+      "partir_de_l_architecture_validée",
+      "concevoir_schemas_JSON_simples_et_deterministes",
+      "aligner_les_enums_avec_les_referentials_stable",
+      "documenter_chaque_champ_et_ses_contraintes",
+      "preparer_strategie_d_evolution_des_schemas"
+    ],
+    "implementation_planning": [
+      "decouper_le_travail_en_phases_lisibles",
+      "y_inclure_tests_validation_JSON_et_integration",
+      "prevoir_mecanismes_de_migration_si_necessaire",
+      "identifier_risques_techniques_et_dependances",
+      "produire_un_plan_d_implementation_actionnable"
+    ],
+    "code_review": [
+      "analyser_diff_ou_fichiers_codes",
+      "verifier_respect_docs_HCM_et_contraintes_JSON",
+      "controler_separation_OS_vs_HCM",
+      "evaluer_qualite_code_et_couverture_de_tests",
+      "produire_un_rapport_de_review_structuré"
+    ]
+  },
+  "handoff": {
+    "outputs": [
+      "specs_techniques_hcm",
+      "schemas_json_hcm",
+      "plan_impl_technique_hcm",
+      "rapports_revue_code_hcm"
+    ],
+    "downstream_agents": [
+      "pmo_agent",
+      "developer_team",
+      "ops_agent"
+    ]
+  }
+}

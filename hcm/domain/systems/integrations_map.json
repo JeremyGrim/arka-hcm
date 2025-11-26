@@ -1,0 +1,11 @@
+{
+  "integrations": [
+    {
+      "integration_id": "int-ticketing-crm",
+      "from_system": "ticketing",
+      "to_system": "crm",
+      "description": "Synchronisation des informations clients entre le système de ticketing et le CRM."
+    }
+  ]
+}
+
